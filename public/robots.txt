@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /location
+Allow: /pharmacy-services
+Allow: /addiction-services
+Disallow: /privacy-policy
+
+Sitemap: https://example.com/sitemap.xml
